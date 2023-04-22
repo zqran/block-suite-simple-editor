@@ -1,17 +1,17 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@blocksuite/blocks': 0.5.0-alpha.3
-  '@blocksuite/editor': 0.5.0-alpha.3
-  '@blocksuite/store': 0.5.0-alpha.3
+  '@blocksuite/blocks': 0.0.0-20230420210727-85b7de79-nightly
+  '@blocksuite/editor': 0.0.0-20230420210727-85b7de79-nightly
+  '@blocksuite/store': 0.0.0-20230420210727-85b7de79-nightly
   typescript: ^4.9.3
   vite: ^4.2.0
   yjs: ^13.5.53
 
 dependencies:
-  '@blocksuite/blocks': registry.npmmirror.com/@blocksuite/blocks/0.5.0-alpha.3_3r4iw5efw7hjh3scwuuzw66kim
-  '@blocksuite/editor': registry.npmmirror.com/@blocksuite/editor/0.5.0-alpha.3_k7ry66wwwr7bqh7s2qnjlpi6si
-  '@blocksuite/store': registry.npmmirror.com/@blocksuite/store/0.5.0-alpha.3_yjs@13.5.53
+  '@blocksuite/blocks': registry.npmmirror.com/@blocksuite/blocks/0.0.0-20230420210727-85b7de79-nightly_np2srhglvv52az7ghasidargoi
+  '@blocksuite/editor': registry.npmmirror.com/@blocksuite/editor/0.0.0-20230420210727-85b7de79-nightly_lwmjh6b2i2zv67qw6jasbhzj6q
+  '@blocksuite/store': registry.npmmirror.com/@blocksuite/store/0.0.0-20230420210727-85b7de79-nightly_yjs@13.5.53
   yjs: registry.npmmirror.com/yjs/13.5.53
 
 devDependencies:
@@ -20,19 +20,19 @@ devDependencies:
 
 packages:
 
-  registry.npmmirror.com/@blocksuite/blocks/0.5.0-alpha.3_3r4iw5efw7hjh3scwuuzw66kim:
-    resolution: {integrity: sha512-P9567np4GdZwPqS3uSnyLeXckwHN6HPXUOb85EdUdchyYnv3O0Xllz4FteUw5gUk0NFgcduRnR9vqhVawmq9kA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/blocks/-/blocks-0.5.0-alpha.3.tgz}
-    id: registry.npmmirror.com/@blocksuite/blocks/0.5.0-alpha.3
+  registry.npmmirror.com/@blocksuite/blocks/0.0.0-20230420210727-85b7de79-nightly_np2srhglvv52az7ghasidargoi:
+    resolution: {integrity: sha512-j9xH3UmIZn9jv+A3TpTCnP4zqhe8iYxzqKRyyrLr13NHKhdf39qGdEO4fqG/znJS1pyoPkdMl9Ybx2Sv/PGzmg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/blocks/-/blocks-0.0.0-20230420210727-85b7de79-nightly.tgz}
+    id: registry.npmmirror.com/@blocksuite/blocks/0.0.0-20230420210727-85b7de79-nightly
     name: '@blocksuite/blocks'
-    version: 0.5.0-alpha.3
+    version: 0.0.0-20230420210727-85b7de79-nightly
     peerDependencies:
-      '@blocksuite/store': 0.5.0-alpha.3
+      '@blocksuite/store': 0.0.0-20230420210727-85b7de79-nightly
     dependencies:
-      '@blocksuite/connector': registry.npmmirror.com/@blocksuite/connector/0.5.0-alpha.3
-      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.5.0-alpha.3_lit@2.7.2
-      '@blocksuite/phasor': registry.npmmirror.com/@blocksuite/phasor/0.5.0-alpha.3_lit@2.7.2+yjs@13.5.53
-      '@blocksuite/store': registry.npmmirror.com/@blocksuite/store/0.5.0-alpha.3_yjs@13.5.53
-      '@blocksuite/virgo': registry.npmmirror.com/@blocksuite/virgo/0.5.0-alpha.3_lit@2.7.2+yjs@13.5.53
+      '@blocksuite/connector': registry.npmmirror.com/@blocksuite/connector/0.0.0-20230420210727-85b7de79-nightly
+      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.0.0-20230420210727-85b7de79-nightly_lit@2.7.2
+      '@blocksuite/phasor': registry.npmmirror.com/@blocksuite/phasor/0.0.0-20230420210727-85b7de79-nightly_lit@2.7.2+yjs@13.5.53
+      '@blocksuite/store': registry.npmmirror.com/@blocksuite/store/0.0.0-20230420210727-85b7de79-nightly_yjs@13.5.53
+      '@blocksuite/virgo': registry.npmmirror.com/@blocksuite/virgo/0.0.0-20230420210727-85b7de79-nightly_lit@2.7.2+yjs@13.5.53
       '@popperjs/core': registry.npmmirror.com/@popperjs/core/2.11.7
       hotkeys-js: registry.npmmirror.com/hotkeys-js/3.10.2
       lit: registry.npmmirror.com/lit/2.7.2
@@ -45,33 +45,33 @@ packages:
       - yjs
     dev: false
 
-  registry.npmmirror.com/@blocksuite/connector/0.5.0-alpha.3:
-    resolution: {integrity: sha512-2hOEvzv4MRWIdZ2gDgymKpSAnZfeGPyWuoY8B8wQvdxxANEjydcenx/es0gi9vwj87xGUpek817KZCi/U/AG1g==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/connector/-/connector-0.5.0-alpha.3.tgz}
+  registry.npmmirror.com/@blocksuite/connector/0.0.0-20230420210727-85b7de79-nightly:
+    resolution: {integrity: sha512-USgoLPhnXqWYURI68A/g9JY/oA/oWGGTHSsgW5FQp3HF3fTTBvQa9Ev4w+QdiMQb1hcgyfEp3AKSd7F5DAaEqQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/connector/-/connector-0.0.0-20230420210727-85b7de79-nightly.tgz}
     name: '@blocksuite/connector'
-    version: 0.5.0-alpha.3
+    version: 0.0.0-20230420210727-85b7de79-nightly
     dev: false
 
-  registry.npmmirror.com/@blocksuite/editor/0.5.0-alpha.3_k7ry66wwwr7bqh7s2qnjlpi6si:
-    resolution: {integrity: sha512-07hZQ6d7KYKc5SGhHqRb5veLtj5UHTeydCnTyg2taujmSQymvyyFxEHIeXgiduIeLWLBrArUwqGCDxnWEKELTg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/editor/-/editor-0.5.0-alpha.3.tgz}
-    id: registry.npmmirror.com/@blocksuite/editor/0.5.0-alpha.3
+  registry.npmmirror.com/@blocksuite/editor/0.0.0-20230420210727-85b7de79-nightly_lwmjh6b2i2zv67qw6jasbhzj6q:
+    resolution: {integrity: sha512-eCSnPtBoBg+TzTRLMUD31+tbipPfcZViW9zrcUsOgjDEFfbDVkO4J3iLur8+YrKDuqJn0GVFm5GBSeXcD7HOOQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/editor/-/editor-0.0.0-20230420210727-85b7de79-nightly.tgz}
+    id: registry.npmmirror.com/@blocksuite/editor/0.0.0-20230420210727-85b7de79-nightly
     name: '@blocksuite/editor'
-    version: 0.5.0-alpha.3
+    version: 0.0.0-20230420210727-85b7de79-nightly
     peerDependencies:
-      '@blocksuite/blocks': 0.5.0-alpha.3
-      '@blocksuite/store': 0.5.0-alpha.3
+      '@blocksuite/blocks': 0.0.0-20230420210727-85b7de79-nightly
+      '@blocksuite/store': 0.0.0-20230420210727-85b7de79-nightly
     dependencies:
-      '@blocksuite/blocks': registry.npmmirror.com/@blocksuite/blocks/0.5.0-alpha.3_3r4iw5efw7hjh3scwuuzw66kim
-      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.5.0-alpha.3_lit@2.7.2
-      '@blocksuite/store': registry.npmmirror.com/@blocksuite/store/0.5.0-alpha.3_yjs@13.5.53
+      '@blocksuite/blocks': registry.npmmirror.com/@blocksuite/blocks/0.0.0-20230420210727-85b7de79-nightly_np2srhglvv52az7ghasidargoi
+      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.0.0-20230420210727-85b7de79-nightly_lit@2.7.2
+      '@blocksuite/store': registry.npmmirror.com/@blocksuite/store/0.0.0-20230420210727-85b7de79-nightly_yjs@13.5.53
       lit: registry.npmmirror.com/lit/2.7.2
       marked: registry.npmmirror.com/marked/4.3.0
       turndown: registry.npmmirror.com/turndown/7.1.2
     dev: false
 
-  registry.npmmirror.com/@blocksuite/global/0.5.0-alpha.3:
-    resolution: {integrity: sha512-MGD4xkCb0DNGXRl4JLVh4TNcdKkPD2UsJMX0vgwuzgzJH26d5O4wjqMqDsaXwA82Wkjbd2GnBkY37wz8+0Vm0Q==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/global/-/global-0.5.0-alpha.3.tgz}
+  registry.npmmirror.com/@blocksuite/global/0.0.0-20230420210727-85b7de79-nightly:
+    resolution: {integrity: sha512-+IE9QVdxZ5VTwCMA/65tDb8DSR/LWFgRl84B1dMZKWtJmJuIHGaXyB+EKe6yzFCPU3pUGuu+fJrAbPG9unbNHg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/global/-/global-0.0.0-20230420210727-85b7de79-nightly.tgz}
     name: '@blocksuite/global'
-    version: 0.5.0-alpha.3
+    version: 0.0.0-20230420210727-85b7de79-nightly
     peerDependencies:
       lit: ^2.6
     peerDependenciesMeta:
@@ -82,11 +82,11 @@ packages:
       zod: registry.npmmirror.com/zod/3.21.4
     dev: false
 
-  registry.npmmirror.com/@blocksuite/global/0.5.0-alpha.3_lit@2.7.2:
-    resolution: {integrity: sha512-MGD4xkCb0DNGXRl4JLVh4TNcdKkPD2UsJMX0vgwuzgzJH26d5O4wjqMqDsaXwA82Wkjbd2GnBkY37wz8+0Vm0Q==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/global/-/global-0.5.0-alpha.3.tgz}
-    id: registry.npmmirror.com/@blocksuite/global/0.5.0-alpha.3
+  registry.npmmirror.com/@blocksuite/global/0.0.0-20230420210727-85b7de79-nightly_lit@2.7.2:
+    resolution: {integrity: sha512-+IE9QVdxZ5VTwCMA/65tDb8DSR/LWFgRl84B1dMZKWtJmJuIHGaXyB+EKe6yzFCPU3pUGuu+fJrAbPG9unbNHg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/global/-/global-0.0.0-20230420210727-85b7de79-nightly.tgz}
+    id: registry.npmmirror.com/@blocksuite/global/0.0.0-20230420210727-85b7de79-nightly
     name: '@blocksuite/global'
-    version: 0.5.0-alpha.3
+    version: 0.0.0-20230420210727-85b7de79-nightly
     peerDependencies:
       lit: ^2.6
     peerDependenciesMeta:
@@ -98,33 +98,32 @@ packages:
       zod: registry.npmmirror.com/zod/3.21.4
     dev: false
 
-  registry.npmmirror.com/@blocksuite/phasor/0.5.0-alpha.3_lit@2.7.2+yjs@13.5.53:
-    resolution: {integrity: sha512-3Mmk3B5buziGUEPVBfwgcNR7HuNiDqYOOXtBB9rjpMcdkM4Z8GK//rLbHjB0Wd8RuBC8UTNjlfc60uk//lGTbw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/phasor/-/phasor-0.5.0-alpha.3.tgz}
-    id: registry.npmmirror.com/@blocksuite/phasor/0.5.0-alpha.3
+  registry.npmmirror.com/@blocksuite/phasor/0.0.0-20230420210727-85b7de79-nightly_lit@2.7.2+yjs@13.5.53:
+    resolution: {integrity: sha512-0ojgVHDeotfnKprgf8HFR3G0dKiuj7Ze3UmmUV6o/nrdbveYvtSo+lSz+pGoM+yINOk0iRhdfzOzGpNTUXb2TQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/phasor/-/phasor-0.0.0-20230420210727-85b7de79-nightly.tgz}
+    id: registry.npmmirror.com/@blocksuite/phasor/0.0.0-20230420210727-85b7de79-nightly
     name: '@blocksuite/phasor'
-    version: 0.5.0-alpha.3
+    version: 0.0.0-20230420210727-85b7de79-nightly
     peerDependencies:
       nanoid: ^4
       yjs: ^13
     dependencies:
-      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.5.0-alpha.3_lit@2.7.2
+      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.0.0-20230420210727-85b7de79-nightly_lit@2.7.2
       fractional-indexing: registry.npmmirror.com/fractional-indexing/3.2.0
-      perfect-freehand: registry.npmmirror.com/perfect-freehand/1.2.0
       yjs: registry.npmmirror.com/yjs/13.5.53
     transitivePeerDependencies:
       - lit
     dev: false
 
-  registry.npmmirror.com/@blocksuite/store/0.5.0-alpha.3_yjs@13.5.53:
-    resolution: {integrity: sha512-Lshl/qb++bzv5ptpUZ0CH/2aZq56ITB3n1eFkTCaM4sN8S3/Wu67gU1Usxd+DMJcjfV6748NIYSuO50/eCe6Ow==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/store/-/store-0.5.0-alpha.3.tgz}
-    id: registry.npmmirror.com/@blocksuite/store/0.5.0-alpha.3
+  registry.npmmirror.com/@blocksuite/store/0.0.0-20230420210727-85b7de79-nightly_yjs@13.5.53:
+    resolution: {integrity: sha512-9teJPRub5ZagSMPWPcCU+4NZyCWtQSe61h/vpPWLNI10nA5N1AwoEGVeojGq1SH5GNBpiOXtq9TnlUsqcsCdxA==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/store/-/store-0.0.0-20230420210727-85b7de79-nightly.tgz}
+    id: registry.npmmirror.com/@blocksuite/store/0.0.0-20230420210727-85b7de79-nightly
     name: '@blocksuite/store'
-    version: 0.5.0-alpha.3
+    version: 0.0.0-20230420210727-85b7de79-nightly
     peerDependencies:
       yjs: ^13
     dependencies:
-      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.5.0-alpha.3
-      '@blocksuite/virgo': registry.npmmirror.com/@blocksuite/virgo/0.5.0-alpha.3_yjs@13.5.53
+      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.0.0-20230420210727-85b7de79-nightly
+      '@blocksuite/virgo': registry.npmmirror.com/@blocksuite/virgo/0.0.0-20230420210727-85b7de79-nightly_yjs@13.5.53
       '@types/flexsearch': registry.npmmirror.com/@types/flexsearch/0.7.3
       buffer: registry.npmmirror.com/buffer/6.0.3
       flexsearch: registry.npmmirror.com/flexsearch/0.7.21
@@ -144,31 +143,31 @@ packages:
       - utf-8-validate
     dev: false
 
-  registry.npmmirror.com/@blocksuite/virgo/0.5.0-alpha.3_lit@2.7.2+yjs@13.5.53:
-    resolution: {integrity: sha512-jfwlQrTJlqBvpHZMUn6ZeS8stZAHyBqdXv1KzmfAeFE7FNPxLxOvr1Q+GRq01bLNu8+YPijh+eOhHzC7zB+Zyw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/virgo/-/virgo-0.5.0-alpha.3.tgz}
-    id: registry.npmmirror.com/@blocksuite/virgo/0.5.0-alpha.3
+  registry.npmmirror.com/@blocksuite/virgo/0.0.0-20230420210727-85b7de79-nightly_lit@2.7.2+yjs@13.5.53:
+    resolution: {integrity: sha512-9Z4FLdDcRS3mIxwnxy74aKYmRxZgUD5+yQnb+PtJqxbcl2CyGDIJe4U7O8qgE7ad/d7sHGmtxQDOYdZoB04AYQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/virgo/-/virgo-0.0.0-20230420210727-85b7de79-nightly.tgz}
+    id: registry.npmmirror.com/@blocksuite/virgo/0.0.0-20230420210727-85b7de79-nightly
     name: '@blocksuite/virgo'
-    version: 0.5.0-alpha.3
+    version: 0.0.0-20230420210727-85b7de79-nightly
     peerDependencies:
       lit: ^2
       yjs: ^13
     dependencies:
-      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.5.0-alpha.3_lit@2.7.2
+      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.0.0-20230420210727-85b7de79-nightly_lit@2.7.2
       lit: registry.npmmirror.com/lit/2.7.2
       yjs: registry.npmmirror.com/yjs/13.5.53
       zod: registry.npmmirror.com/zod/3.21.4
     dev: false
 
-  registry.npmmirror.com/@blocksuite/virgo/0.5.0-alpha.3_yjs@13.5.53:
-    resolution: {integrity: sha512-jfwlQrTJlqBvpHZMUn6ZeS8stZAHyBqdXv1KzmfAeFE7FNPxLxOvr1Q+GRq01bLNu8+YPijh+eOhHzC7zB+Zyw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/virgo/-/virgo-0.5.0-alpha.3.tgz}
-    id: registry.npmmirror.com/@blocksuite/virgo/0.5.0-alpha.3
+  registry.npmmirror.com/@blocksuite/virgo/0.0.0-20230420210727-85b7de79-nightly_yjs@13.5.53:
+    resolution: {integrity: sha512-9Z4FLdDcRS3mIxwnxy74aKYmRxZgUD5+yQnb+PtJqxbcl2CyGDIJe4U7O8qgE7ad/d7sHGmtxQDOYdZoB04AYQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@blocksuite/virgo/-/virgo-0.0.0-20230420210727-85b7de79-nightly.tgz}
+    id: registry.npmmirror.com/@blocksuite/virgo/0.0.0-20230420210727-85b7de79-nightly
     name: '@blocksuite/virgo'
-    version: 0.5.0-alpha.3
+    version: 0.0.0-20230420210727-85b7de79-nightly
     peerDependencies:
       lit: ^2
       yjs: ^13
     dependencies:
-      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.5.0-alpha.3
+      '@blocksuite/global': registry.npmmirror.com/@blocksuite/global/0.0.0-20230420210727-85b7de79-nightly
       yjs: registry.npmmirror.com/yjs/13.5.53
       zod: registry.npmmirror.com/zod/3.21.4
     dev: false
@@ -709,12 +708,6 @@ packages:
     name: path-parse
     version: 1.0.7
     dev: true
-
-  registry.npmmirror.com/perfect-freehand/1.2.0:
-    resolution: {integrity: sha512-h/0ikF1M3phW7CwpZ5MMvKnfpHficWoOEyr//KVNTxV4F6deRK1eYMtHyBKEAKFK0aXIEUK9oBvlF6PNXMDsAw==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/perfect-freehand/-/perfect-freehand-1.2.0.tgz}
-    name: perfect-freehand
-    version: 1.2.0
-    dev: false
 
   registry.npmmirror.com/picocolors/1.0.0:
     resolution: {integrity: sha512-1fygroTLlHu66zi26VoTDv8yRgm0Fccecssto+MhsZ0D/DGW2sm8E8AjW7NU5VVTRt5GxbeZ5qBuJr+HyLYkjQ==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/picocolors/-/picocolors-1.0.0.tgz}

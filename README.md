@@ -11,3 +11,14 @@ import '@blocksuite/editor/themes/affine.css'
 const editor = new SimpleAffineEditor()
 document.body.appendChild(editor)
 ```
+
+## Install
+
+> Since BlockSuite is under heavy development, we recommend you to use the latest nightly version.
+> Or, the stable version you are using
+
+```bash
+pnpm i @blocksuite/blocks@nightly
+pnpm i @blocksuite/editor@nightly
+pnpm i @blocksuite/store@nightly
+```
