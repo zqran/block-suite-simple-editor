@@ -18,7 +18,8 @@ document.body.appendChild(editor)
 > Or, the stable version you are using
 
 ```bash
-pnpm i @blocksuite/blocks@nightly
-pnpm i @blocksuite/editor@nightly
-pnpm i @blocksuite/store@nightly
+pnpm i \
+  @blocksuite/store@nightly \
+  @blocksuite/blocks@nightly \
+  @blocksuite/editor@nightly
 ```
